@@ -23,6 +23,8 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
@@ -56,6 +58,15 @@ YOLOv8 wildlife detection API on a self-managed **kubeadm** cluster, with FastAP
 </td>
 </tr>
 </table>
+
+### 🔥 [FIREBREAK](https://github.com/mingjun6886/FIT5120-Assignment-TP03)
+Team project (Monash FIT5120): a household bushfire-preparedness web app. Households build and save an evacuation plan, see local fire danger and historical fire context on a map, check road disruptions near their destinations, and run a meet-up simulation against their plan.
+
+- 🧩 Vue 3 + Vite frontend, FastAPI + Pydantic services, MySQL (with spatial open data), Docker
+- 🛡️ Rule-based guidance; the safety Q&A model returns only IDs of reviewed answers, so it can't invent advice
+- 👥 Built with a team of five, tracked across three frozen iterations
+
+**[View the repo →](https://github.com/mingjun6886/FIT5120-Assignment-TP03)**
 
 <!-- Coursework (add later), e.g.:
 ## 🎓 Coursework
