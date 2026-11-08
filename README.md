@@ -64,7 +64,9 @@ Team project (Monash FIT5120): a household bushfire-preparedness web app. Househ
 
 - 🧩 Vue 3 + Vite frontend, FastAPI + Pydantic services, MySQL (with spatial open data), Docker
 - 🛡️ Rule-based guidance; the safety Q&A model returns only IDs of reviewed answers, so it can't invent advice
-- 👥 Built with a team of five, tracked across three frozen iterations
+- 🙋 My role: **frontend, UI/UX, backend, voice control** and other features, in a team of five
+- 🗣️ Voice control: hands-free navigation and read-outs of weather, fire danger and plan status, with an AI-selected action from a closed list so it can only navigate or read, never change data
+- 🗂️ Delivered over three frozen iterations
 
 **[View the repo →](https://github.com/mingjun6886/FIT5120-Assignment-TP03)**
 
