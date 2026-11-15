@@ -14,6 +14,7 @@
 - ☁️ I build cloud infrastructure as code and ship ML models behind real APIs
 - 📏 I like things **measured, not asserted**: benchmarks, cost guardrails, runbooks
 - 🔎 Currently looking for **Cloud / DevOps** and **ML / AI engineering** internships
+- 📫 Reach me at **[minhquan.nguyen1202@gmail.com](mailto:minhquan.nguyen1202@gmail.com)**
 
 ## 🛠️ Tech stack
 
@@ -96,7 +97,6 @@ Team project (Monash FIT5120): a household bushfire-preparedness web app. Househ
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minhquan.nguyen1202@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mingjun6886)
 
