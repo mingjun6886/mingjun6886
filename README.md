@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Minh%20Quan%20Nguyen&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20ML%20Engineering&descAlignY=58&descSize=20" alt="Minh Quan Nguyen banner" />
-
 <a href="https://github.com/mingjun6886">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=4FC3F7&center=true&vCenter=true&width=620&lines=Student+at+Monash+University+%7C+Melbourne;Looking+for+Cloud%2FDevOps+internships;Looking+for+ML%2FAI+engineering+internships;Terraform+it.+Containerise+it.+Benchmark+it." alt="Typing animation" />
 </a>
